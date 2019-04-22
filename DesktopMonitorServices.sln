@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "desktop_monitor_api\WebApplication1\WebApplication1.csproj", "{56B58747-AB31-4E59-907E-82EC22A75F3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopMonitorWebApi", "desktop_monitor_api\DesktopMonitorWebApi\DesktopMonitorWebApi.csproj", "{56B58747-AB31-4E59-907E-82EC22A75F3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
